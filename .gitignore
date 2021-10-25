@@ -145,7 +145,5 @@ dmypy.json
 checkpoints/
 outfiles/
 
-# Dataset folders
-dataset/*
 *.png
 
