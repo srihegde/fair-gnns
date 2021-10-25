@@ -146,6 +146,6 @@ checkpoints/
 outfiles/
 
 # Dataset folders
-dataset/
+dataset/*
 *.png
 
