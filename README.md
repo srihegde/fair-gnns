@@ -5,7 +5,7 @@ Course project for CMSC 724: Algorithms in Machine Learning: Guarantees and Anal
 
 Install `dgl`, `torch`, and `torchvision`
 
-To run on our synthetic data, download the dataset from [here](https://github.com/srihegde/fair-gnns/#). (This link is not acivate yet.)
+To run on our synthetic data, download the dataset from [here](https://github.com/srihegde/fair-gnns/#). (This link is not active yet.)
 
 Adjust `batch_scripts/` with your data locations
 
